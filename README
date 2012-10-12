@@ -1,2 +1,2 @@
-Crawler.py
+[Crawler.py]
 The crawler.py is the basic crawler. It crawls the webpages recursively upto the 20 pages. It checks if the link is crawlable against robots.txt.
